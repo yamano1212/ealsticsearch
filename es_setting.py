@@ -1,5 +1,6 @@
 from elasticsearch import Elasticsearch,RequestsHttpConnection
 
+
 def setting_es():
 	settings = """
 	{
